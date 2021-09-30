@@ -1,6 +1,6 @@
 # Student Bio
 
-##Hi poggers!
+##Hi everyone!
 
 * I'm Khaled, 19yo.
 
